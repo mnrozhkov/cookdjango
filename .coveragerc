@@ -1,0 +1,3 @@
+[run]
+include = cookdjango/*
+omit = *migrations*
