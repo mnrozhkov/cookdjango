@@ -1,0 +1,2 @@
+# cookdjango
+Test cookiecutter
